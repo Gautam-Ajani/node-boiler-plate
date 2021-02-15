@@ -1,0 +1,28 @@
+{
+  "jwt": {
+    "expired": "Your session has expired. Please Login again."
+  },
+  "userMessage": {
+    "notFound": "No account exists for '%s'. Maybe you signed up using a different/incorrect e-mail address.",
+    "tokenExpired": "Oops! This URL in not valid anymore or expired.",
+    "forgotPasswordSuccess": "A link to reset your password has been sent to '%s'.",
+    "retrieved": "User retrieved successfully.",
+    "notExist": "Account does not exist with the entered email.",
+    "exists": "Account already exists for '%s'",
+    "invalidCredential": "Incorrect email or password",
+    "emailRequired": "Email Should not be blank.",
+    "emailNotExists": "Account with email '%s' does not exists.",
+    "notVerified": "Your account is not verified. Please check your inbox to confirm your email address and access the account.",
+    "invalidResetPasswordToken": "Oops! This URL in not valid anymore or expired.",
+    "resendMailSuccess": "A link to verify your account has been sent to '%s'. Please check your inbox to confirm your email address and access the account.",
+    "activationTokenExpires": "Activation link expired. Please click the button below to resend the account activation email.",
+    "deleted": "User account with email '%s' is deleted.",
+    "emailExist": "Email already exists.",
+    "created": "User created successfully.",
+    "userNotExist": "User does not exist.",
+    "passwordSet": "Password reset successfully.",
+    "unauthorized": "You are not authorized perform this operation.",
+    "notDeleteAdmin": "Admin can not delete another admin user.",
+    "updated": "User updated successfully."
+  }
+}
